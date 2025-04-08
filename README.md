@@ -27,7 +27,7 @@ The application performs the following tasks:
   - pandas
  
 
-##Setup Instructions
+## Setup Instructions
 
 - Create your env fiel to store your groq api key
 - use the command streamlit run lead_scrapper.py
